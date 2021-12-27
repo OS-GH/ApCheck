@@ -1,4 +1,6 @@
-puts "It is illegal to pirate OS-GH."
+puts "It is a very serious crime to pirate OS-GH."
 puts "You have violated the OS-GH License terms."
+puts "The OS-GH Team and your local authorities have been notified."
+puts "To continue, you must install a legal version of OS-GH provided by the OS-GH Team."
 puts "Thanks for using OS-GH."
 puts "SHUT DOWN AND REPORT NOW!"
